@@ -60,3 +60,8 @@ https://drive.google.com/file/d/1HZADo11XIBI8S6fBhD6aFVuhJx9QnZh2/view?usp=share
 
 ![git](https://github.com/GustavoHMoraes/JogoBasquete/assets/127853014/d4a7ea09-4c68-4ece-a11d-28d8e5719f6d)
 
+# Diagrama de Classes
+![classes drawio](https://github.com/GustavoHMoraes/JogoBasquete/assets/127853014/66b33c22-c130-4fcc-8d4e-6e5c30cb6ab3)
+
+
+
